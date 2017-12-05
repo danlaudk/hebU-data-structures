@@ -1,3 +1,5 @@
+[replacement lecture dec 5](https://docs.google.com/presentation/d/1gla9ycg86j88LH2ak_jzUk-Sx2gONepuvZSG0uHqs1Q/edit?usp=sharing)
+
 # hebU-data-structures
 
 [streams in cpp](https://bartoszmilewski.com/2014/04/21/getting-lazy-with-c/)
