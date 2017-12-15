@@ -1,4 +1,6 @@
-[replacement lecture dec 5](https://docs.google.com/presentation/d/1gla9ycg86j88LH2ak_jzUk-Sx2gONepuvZSG0uHqs1Q/edit?usp=sharing)
+[slides replacement lecture dec 5](https://docs.google.com/presentation/d/1gla9ycg86j88LH2ak_jzUk-Sx2gONepuvZSG0uHqs1Q/edit?usp=sharing)
+
+[slides functional immutable streams](https://docs.google.com/presentation/d/1uE8drhhzkCqVY81BfN2Mp4OqIdFwYoE5-NaMS25EBhk/edit)
 
 # hebU-data-structures
 
